@@ -1,0 +1,7 @@
+[core]
+	editor = \"C:\\Users\\jitae\\AppData\\Local\\Programs\\Microsoft VS Code\\bin\\code.cmd\" --wait
+	precomposeunicode = true
+	quotepath = false
+[user]
+	name = jitaeda
+	email = jitaeda1@gmail.com
